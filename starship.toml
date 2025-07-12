@@ -5,9 +5,9 @@ $git_metrics\
 $character\
 """
 
-right_format = """
-$cmd_duration\
-"""
+#right_format = """
+#$cmd_duration\
+#"""
 
 add_newline=false
 
